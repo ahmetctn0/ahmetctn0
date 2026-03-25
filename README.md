@@ -35,8 +35,7 @@ A personal productivity tool to:
 - Track progress  
 - Analyze mistakes  
 
-### 🌿 Plant Leaf Disease Detection
-- TÜBİTAK-supported project  
+### 🌿 Plant Leaf Disease Detection 
 - Built with **PyTorch & Transfer Learning**  
 - Focused on real-world agricultural problem solving  
 
