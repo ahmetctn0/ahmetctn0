@@ -1,10 +1,6 @@
 <h1 align="center">Ahmet Çetin 👋</h1>
 <h3 align="center">Computer Engineering Student | Full-Stack Developer | TÜBİTAK Project Lead</h3>
 
-<p align="center">
-  <a href="https://github.com/ahmetctn0">
-    <img src="https://komarev.com/ghpvc/?username=ahmetctn0&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
   <a href="https://www.linkedin.com/in/ahmetcetin00/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20%C3%87etin-0A66C2?style=flat&logo=linkedin" />
   </a>
@@ -70,9 +66,3 @@ A personal productivity tool to:
     <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20%C3%87etin-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
-
-## ✨ Personal Motto
-
-> "Code. Learn. Build. Repeat."
