@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Ahmet Çetin 👋</h1>
+<h3 align="center">Computer Engineering Student | Full-Stack Developer | TÜBİTAK Project Lead</h3>
 
-<!--
-**ahmetctn0/ahmetctn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/ahmetctn0">
+    <img src="https://komarev.com/ghpvc/?username=ahmetctn0&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmetcetin00/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20%C3%87etin-0A66C2?style=flat&logo=linkedin" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Final year **Computer Engineering student**  
+- 💻 Focused on **Full-Stack Web Development**  
+- ⚛️ Working with **React, Node.js, PHP (Laravel)**  
+- 🧠 **TÜBİTAK Project Lead** (Plant Leaf Disease Detection with Deep Learning)  
+- 🌱 Currently improving in **System Design & Backend Architecture**  
+- 🎯 Goal: Build scalable, real-world software products  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,php,laravel,python,mysql,postgresql,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📘 KPSS Preparation Application
+A personal productivity tool to:
+- Organize study topics  
+- Track progress  
+- Analyze mistakes  
+
+### 🌿 Plant Leaf Disease Detection
+- TÜBİTAK-supported project  
+- Built with **PyTorch & Transfer Learning**  
+- Focused on real-world agricultural problem solving  
+
+### 🌐 Web Development Projects
+- Frontend & backend development  
+- React-based UI + PHP/Node.js backend systems  
+- Real-life project experience (internship included)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetctn0&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetctn0&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/ahmetctn0">
+    <img src="https://img.shields.io/badge/GitHub-ahmetctn0-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmetcetin00/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20%C3%87etin-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## ✨ Personal Motto
+
+> "Code. Learn. Build. Repeat."
