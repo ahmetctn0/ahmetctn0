@@ -1,5 +1,5 @@
 <h1 align="center">Ahmet Çetin 👋</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack Developer </h3>
+<h3 align="center">Computer Engineer | Full-Stack Developer </h3>
 
   <a href="https://www.linkedin.com/in/ahmetcetin00/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20%C3%87etin-0A66C2?style=flat&logo=linkedin" />
@@ -10,7 +10,6 @@
 
 ## 🚀 About Me
 
-- 🎓 Final year **Computer Engineering student**  
 - 💻 Focused on **Full-Stack Web Development**  
 - ⚛️ Working with **React, Node.js, PHP (Laravel)**  
 - 🧠 Plant Leaf Disease Detection with Deep Learning
